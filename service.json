@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "story-wizard-392117",
+  "private_key_id": "f3f1c06b36bbd276df1f198172cabfb0968b8512",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQClOBkQwFkRNrWl\nNm42ehGXlASu/gwpUGwXSHaABj3f+1VSBRFf4EqeoeSo1qRDIf3u6K40xIn8Aw9G\nDEIpx0/HbDfIc2keeQxw2sTJvgPHhHggtVsCEsdp8zd4oK6imo/0zSS7ijwrX6rj\nehO5lS5vbI5zewaUppVkl+NVzT5jyrlN0NamOcrOC03Hfvo3aVyZlgxR1gklD5Hc\nuuofTQdLfV+vtPtzCneA9/YjKHomGBzl+26fiGOFya46ijhlqTt8mM30rX9Q+Joy\n7+m2LVGYLVGbkt31QI2aJY18WGRhSa5O5UTh9KVLZohCrEL6KBrFnM4m08U6SUId\nryNdY88tAgMBAAECgf8Upu57KY/4lt4dyK/+H0QTrmznctoST/sy7dviJOWXGdOQ\nbRG+6kppidMLR8lAmv8i3fLopaiZ18gQ+XdLwZ43T0+pvsNlC7yCXtY6YYYXaneZ\nnxHBMJe8pqpIac1qhed4sivlRWJACbVSue+9QuiLBQbJaJdp/WivKk1AbGdgEcOZ\nuIpomDnP2N/wyvwyZDIiq4/f8PoFpKpeMzvIEKt3JVV4QcIVNlVTEGhFbWlOmsK2\nugIGj1K+m9SzG1F+LF1lmAftDG8rm9WfBiSOlnnV6sK7BBT8CtXvqdGhv/Su525M\nH0lFAd3+kLNGx/zVzn1+PQGxLQ0+p6ZdDJugl4ECgYEA2U/mYwRhxZumsm3Gb0hT\njLQZ4hfqa8o76jq5S/gZ8v9t7T7v2u7VVT82WlMNjfVXF9Ium0edhUA9C8J5N+DX\nRg4HNvvyZNrgQ+EcVd0bxEphUIfCabFMzEVS3iwEdgF5oId+AOoHaEJ80M8zn4jB\n7/OvwoCnq7xYhpYOfXbYbBsCgYEAwqIJUpjC8fHPHQxhIwQSq66Old3kzaXeJ4sU\nzkzPeA2JDYQLTcxxzfaTwSFtdlCgeofnDVNgE9YYCACQ27jjGN7mKtAYOLXATHr1\ndzM5SeqnO+WZ9EL1MYDUpPPHOujvJCr6mNWUJQV0KLeehoMLkGwZDDS2JiBJk2II\n4HzyVlcCgYEAiP7Ay51AkdW9MfDYTuE2opYLVygihU9ZlCDvHYBLw4/ZWd36UXeN\nD4+pESoYemy3OfIrpYJxQEat9VLlHh/lNmmzjKsqNQByrvgj59FbJtSJIr5jBkRa\nmM//HMZ9DXOCnHuuKJ9gig6YJv7omWMad82U+LYofbBf0oCYo+mfKA8CgYA/XfP9\nEUE+9kRBJ9ukQ9o0TROdFW49ygfnBfATLozJgFajsN7hSHOw49u9ID38LEnjOsXt\n37xDGQwf5tdCwhIl8cQsIi4QoJPoEoxCb8nyF9S0uo8CKJ6drF0PC1NNCbN6KggG\npFqkJv9nlkilcJrePWN2Rt8a0J5DvsI3HFbl5wKBgQC9M2OK/wRRZd7QWjYHs6zX\nxYCqVBdqpGAWOoyFizFa252Un8hRlZM9NOnbTDNMO0KKKXaq+47rjVnDeYv8HrMT\nPGBimLHe+It9xSLvj/2F6Kx/xc2QA+rxjnfFP0ImfKuXAZvrA5XC2/cFSZ/svSBf\nBPLxWJYMco0628l/j3iwiQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "tts-story-wizard@story-wizard-392117.iam.gserviceaccount.com",
+  "client_id": "111816107539345371963",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tts-story-wizard%40story-wizard-392117.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
